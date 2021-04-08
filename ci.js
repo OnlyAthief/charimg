@@ -1,5 +1,4 @@
-/*! ci v1.2 | 字符画生成 | ctchen */
-; (function (window, document) {
+
 	var CI = (function () {
 		var setting = {
 			async: false,	// 异步模式
@@ -1085,4 +1084,4 @@
 			}
 		};
 	})();
-})(window, document);
+
